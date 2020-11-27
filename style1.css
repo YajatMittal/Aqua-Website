@@ -1,0 +1,46 @@
+html{
+    background-color: lightblue;
+}
+
+.color{
+    margin-top: 130px;  
+}
+
+
+nav{
+    background-color:blue;  
+    padding: 14px; 
+
+}
+
+.topbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 100px;
+    margin-left: 120px;
+}
+
+.topbar a:hover {
+    color: orange
+
+}
+
+
+img{
+    margin-left: 40px;
+}
+
+
+p{
+    font-family: sans-serif;
+    font-size: 28px;
+}
+
+.first{
+    margin-right: 50px;
+}
+
+
+    
