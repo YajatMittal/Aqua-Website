@@ -1,0 +1,39 @@
+html{
+    background-image: url(986ba785-5ee8-42fb-ba91-3d577d78dbfa.gif);
+    background-size: cover;
+}
+
+
+.color{
+    margin-top: 130px;  
+}
+
+
+nav{
+    background-color:blue;  
+    padding: 14px; 
+
+}
+
+.topbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 100px;
+    margin-left: 120px;
+}
+
+.topbar a:hover {
+    color: orange
+
+}
+
+
+
+
+
+
+
+
+    
